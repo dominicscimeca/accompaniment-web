@@ -15,7 +15,7 @@ function App() {
     <Router>
       <div className="App">
         <header className="App-header">
-          Welcome. Hello There.
+          Welcome. Hello There. :)
           <p>
             from: Dominic Scimeca
           </p>
